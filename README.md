@@ -1,1 +1,0 @@
-El proyecto esta organizado en carpetas por semana, desde la semana **Semana 9** hasta la **Semana 16**. En cada carpeta se integrarán los ejercicios, tareas y proyectos correspondientes al avance del Semestre.
