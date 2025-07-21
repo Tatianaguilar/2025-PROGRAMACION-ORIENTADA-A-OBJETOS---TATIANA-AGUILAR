@@ -1,6 +1,1 @@
-# 2424-PROGRAMACION-ORIENTADA-A-OBJETOS--UEA-L-UFB-030
-
-Repositorio de código fuente utilizado en la Asignatura Programación Orientada a Objetos<br>
-Institución: Universidad Estatal Amazónica<br>
-Carrera: Ingeniería en Tecnologías de la Información y Comunicación<br>
-Docente: Ing. Edwin Gustavo Fernández Sánchez, Mgs.
+El proyecto esta organizado en carpetas por semana, desde la semana **Semana 9** hasta la **Semana 16**. En cada carpeta se integrarán los ejercicios, tareas y proyectos correspondientes al avance del Semestre.
